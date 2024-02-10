@@ -46,3 +46,9 @@ https://t.me/c/xxxx/101 - 120
 ```
 
 _note that space in between doesn't matter_
+
+
+<a href="https://dashboard.heroku.com/new?template=https://github.com/iboughtthe/Save-Restricted-Bot)">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+
